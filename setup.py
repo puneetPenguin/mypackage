@@ -6,7 +6,5 @@ setup(
     packages=find_packages(),
     install_requires=[],
     description="A simple custom Python package",
-    author="Your Name",
-    author_email="your.email@example.com",
-    url="https://github.com/yourusername/mypackage",
+    url="https://github.com/puneetPenguin/mypackage",
 )
